@@ -3,4 +3,4 @@ class Dog
 lassie.name = "Lassie"
 end
 
-lassie 
+puts lassie 
